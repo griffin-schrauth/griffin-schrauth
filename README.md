@@ -1,10 +1,10 @@
 -Hi, I’m @griffin-schrauth
 
--Recent graduate of Florida Atlantic University.
+-Recent graduate of Florida Atlantic University with a minor in AI.
 
--Graduated Magna Cum Laude and a minor in AI
+-Graduated Magna Cum Laude .
 
--I am interested in all types of software development from front to back-end
+-I am interested in all types of software development.
 
 -To contact me, griffinschrauth@gmail.com
 
