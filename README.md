@@ -1,10 +1,10 @@
 -Hi, I’m @griffin-schrauth
 
--I am currently a senior at Florida Atlantic University and graduating in the spring of 2022.
+-Recent graduate of Florida Atlantic University.
 
--I am studying Computer Science (B.S.).
+-Graduated Magna Cum Laude and a minor in AI
 
--I am interested in all types of software development from front to back-end, Also I really enjoy A.I 
+-I am interested in all types of software development from front to back-end
 
 -To contact me, griffinschrauth@gmail.com
 
