@@ -1,10 +1,6 @@
 -Hi, I’m @griffin-schrauth
 
--Recent graduate of Florida Atlantic University with a minor in AI.
-
--Graduated Magna Cum Laude .
-
--I am interested in all types of software development.
+- I am currently a Salesforce Developer at Nextera Energy
 
 -To contact me, griffinschrauth@gmail.com
 
